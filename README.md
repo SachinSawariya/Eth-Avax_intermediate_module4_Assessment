@@ -68,4 +68,5 @@ function redeemTokens(uint choice) external payable
 The `redeemTokens` function allows players to redeem tokens for items in the in-game store. Players need to provide the `choice` parameter, representing the sequence number of the desired item to redeem. The function checks the player's token balance and verifies if it is sufficient for the selected item. If the conditions are met, it transfers the corresponding token value to the contract owner.
 
 ### Video Walkthrough
+https://www.loom.com/share/364bea708089499cb86d425c558f8876
 
